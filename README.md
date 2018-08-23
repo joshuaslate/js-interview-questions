@@ -1,11 +1,13 @@
 # JavaScript Interview Question Prep
 This repository is meant to hold interview practice questions, specifically for JavaScript roles. The goal here is to create a repository people of all different backgrounds can learn from. If you see an opportunity to improve this repository, whether making it more accurate in some way, adding tests, adding problems, or even adding new solutions (commented in the corresponding test files), I would appreciate your contribution. Please feel empowered to open a pull request with your changes.
 
+Originally created for this blog post: https://devdecoded.com/post/fortune-500-javascript-interview-questions
+
 ## How to use
 First, clone the repository:
 
 ```
-git clone http://github.com/joshuaslate/js-interview-questions.git
+git clone https://github.com/joshuaslate/js-interview-questions.git
 ```
 
 Next, install required dependencies:
