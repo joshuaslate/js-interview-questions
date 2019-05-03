@@ -1,5 +1,5 @@
 /**
- * Write a function that calls printName and returns "Greetings from DevDecoded!"
+ * Write a function that calls getGreeting and returns "Greetings from DevDecoded!"
  * 
  * HINT: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind
  *       https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call
